@@ -18,7 +18,7 @@ The dataset is organized into two main folders:
 Here's a sneak peek:
 
 ```
-hotdog-or-not-hotdog/
+train/
 ├── hotdog/
 │ ├── hotdog1.jpg
 │ ├── hotdog2.jpg
@@ -88,10 +88,10 @@ Feel free to fork this repository, open issues, and submit pull requests. We wel
 
 This project is licensed under the AGPL-3.0 License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
+## Acknowledgments 🫶
 
-Thanks to HBO's "Silicon Valley" for the hilarious inspiration.
-Shoutout to all foodies and machine learning enthusiasts for making data science delicious!
+- Thanks to HBO's "Silicon Valley" for the hilarious inspiration.
+- Shoutout to all foodies and machine learning enthusiasts for making data science delicious!
 
 ---
 
