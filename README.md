@@ -17,7 +17,7 @@ The dataset is organized into two main folders:
 
 Here's a sneak peek:
 
-.
+hotdog-or-not-hotdog/
 ├── hotdog/
 │ ├── hotdog1.jpg
 │ ├── hotdog2.jpg
