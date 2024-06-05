@@ -95,6 +95,4 @@ This project is licensed under the AGPL-3.0 License - see the [LICENSE](LICENSE)
 
 ---
 
-_No hotdogs were harmed in the making of this dataset._
-
-### Stay geeky and may your code always compile! 👨‍💻👩‍💻
+_Disclaimer : No hotdogs were harmed in the making of this dataset._
